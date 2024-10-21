@@ -1,0 +1,19 @@
+-----------------------------------
+              STRUK PEMBELIAN
+-----------------------------------
+Tanggal     : [Tanggal Pembelian]
+Waktu       : [Waktu Pembelian]
+Nomor Transaksi: [Nomor Transaksi]
+-----------------------------------
+Item                 Jumlah      Harga
+-----------------------------------
+[Nama Item 1]         [Qty]    [Harga Item 1]
+[Nama Item 2]         [Qty]    [Harga Item 2]
+[Nama Item 3]         [Qty]    [Harga Item 3]
+-----------------------------------
+Subtotal                       : [Subtotal]
+Bayar                          : [Bayar]
+Kembalian                      : [Kembalian]
+-----------------------------------
+Terima kasih telah berbelanja!
+-----------------------------------
